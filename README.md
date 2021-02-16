@@ -1,0 +1,2 @@
+# LayerofDimension-RP
+LayerofDimensionのリソースパック
